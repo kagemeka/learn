@@ -1,0 +1,5 @@
+name: 'for_tour'
+dependencies:
+  characters: ^1.0.0
+  meta: ^1.2.3
+  args: ^1.6.0

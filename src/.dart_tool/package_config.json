@@ -1,0 +1,31 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///root/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///root/.pub-cache/hosted/pub.dartlang.org/characters-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///root/.pub-cache/hosted/pub.dartlang.org/meta-1.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "for_tour",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-12-27T14:29:12.017573Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.4"
+}
